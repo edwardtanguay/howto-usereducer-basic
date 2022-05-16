@@ -1,0 +1,29 @@
+body {
+	background: #333;
+	color: #ccc;
+	padding: 0 20px;
+
+	.App {
+		font-size: 1.4rem;
+
+		h1 {
+			color: rgb(226, 226, 151);
+			font-size: 1.8rem;
+		}
+
+		pre {
+			background: #222;
+			padding: 10px;
+			font-family: monospace;
+			color:tomato;
+			font-size: 0.9rem;
+		}
+
+		button {
+			font-size: 1.4rem;
+			width: 80px;
+			margin: 10px 10px 0 0;
+		}
+	}
+
+}
